@@ -1,5 +1,5 @@
 
-# 📊 Gyaan Deck – Auto-Generate a Presentation from Text
+# GenPPT
 
 **Your Text, Your Style – Turn bulk text or markdown into a polished PowerPoint presentation.**
 
